@@ -7,19 +7,12 @@ import { en, es, pt } from './lib/idiomas/total-idiomas.js'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['593959425714', '🔰 𝐃𝐈𝐄𝐆𝐎 - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰', true],
-  ['51993138466', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰', true],
-  ['573184314110', '🔰 𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 3 🔰', true],
-  ['50246028932', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 4 🔰', true],
-  ['51936767238'],
-  //['593968585383'], DEJEN ESTO ASÍ POR AHORA POR FAVOR
-  ['51957041866'],
-  ['584125778026']
+  ['6285791453138', '🔰 Owner 🔰', true]
 
 ] 
-global.suittag = ['593959425714'] 
-global.mods = ['595986674310'] 
-global.prems = [] 
+global.suittag = ['6285791453138'] 
+global.mods = ['6285791453138'] 
+global.prems = ['6285791453138'] 
 
 global.APIs = { // API Prefix
   // name: 'https://website'
